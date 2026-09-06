@@ -21,6 +21,6 @@ Understand the work → identify credible value → build the smallest useful sy
 
 ## Currently building
 
-**Skills for Better Work** — a private-alpha collection of practical Codex skills for better decisions about processes, systems, and AI.
+**Skills for Better Work** — a private-alpha collection of portable AI skills for better decisions about processes, systems, and AI, built and evaluated natively for Codex.
 
 > Build what helps people do better work.
