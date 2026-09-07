@@ -28,9 +28,9 @@ Outside my primary role, I bootstrapped and lead **The AI Fellowship Madrid Chap
 
 ## What I'm building
 
-### Skills for Better Work
+### [Skills for Better Work](https://github.com/luka-duj/skills-for-better-work)
 
-A private-alpha collection of portable AI skills for better decisions about processes, systems, and AI. The collection is built and evaluated natively for Codex and follows the Agent Skills format, so it can be installed in compatible clients, including Claude; behavior varies by environment.
+A public-alpha collection of portable AI skills for better decisions about processes, systems, and AI. The collection is built and evaluated natively for Codex and follows the Agent Skills format, so it can be installed in compatible clients, including Claude; behavior varies by environment.
 
 The first skill, **Process Before Platform**, helps stakeholders and internal PMs, POs, and BAs turn vague tooling or automation requests into structured discovery and a portable initiative handoff before a team commits to a solution.
 
