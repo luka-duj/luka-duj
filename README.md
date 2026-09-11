@@ -30,9 +30,9 @@ Outside my primary role, I bootstrapped and lead **The AI Fellowship Madrid Chap
 
 ### [Skills for Better Work](https://github.com/luka-duj/skills-for-better-work)
 
-A public-alpha collection of portable AI skills for better decisions about processes, systems, and AI. The collection is built and evaluated natively for Codex and follows the Agent Skills format, so it can be installed in compatible clients, including Claude; behavior varies by environment.
+AI skills for PMs and workflow owners who need a clearer decision before committing to a tool or automation. **Better Work Loop** helps both sides understand the problem, decide whether anything should be built, shape the smallest useful test, build only that slice, examine the evidence, and prepare the next decision.
 
-The first skill, **Process Before Platform**, helps stakeholders and internal PMs, POs, and BAs turn vague tooling or automation requests into structured discovery and a portable initiative handoff before a team commits to a solution.
+This is a public alpha, built and tested natively in Codex. The same six skill folders can be imported into Claude Code with small changes to the install path, invocation, and tool permissions. [Install and try the skills](https://github.com/luka-duj/skills-for-better-work#install).
 
 ## How I work
 
