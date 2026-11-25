@@ -14,7 +14,7 @@ In my free time, I build and share experiments around problems I’m curious abo
 
 - **[Skills for Better Work](https://github.com/luka-duj/skills-for-better-work)** — Six Agent Skills for product managers and workflow owners. The Better Work Loop helps teams decide whether to automate a workflow, scope the smallest useful test, and review the evidence before expanding it. Public alpha, built and tested in Codex. The skills can also be imported into Claude Code with small setup changes. [Install the skills](https://github.com/luka-duj/skills-for-better-work#install).
 - **[Bro Shark for Codex](https://github.com/luka-duj/bro-shark)** — An animated pixel-art shark for Codex. The repository includes ready-to-import sprite sheets, animation previews, and a local installer. [See the install options](https://github.com/luka-duj/bro-shark#use-directly-in-codex).
-- **Falta un Papel** — A Spanish-language plugin that finds official municipal forms and prepares a draft PDF or answers for the online form. You review and submit through the town hall’s official site. Alpha in development.
+- **[Falta un Papel](https://github.com/luka-duj/falta-un-papel)** — A Spanish-language plugin that finds official municipal forms and prepares a draft PDF or answers for the online form. You review and submit through the town hall’s official site. Alpha in development.
 
 ## How I got here
 
